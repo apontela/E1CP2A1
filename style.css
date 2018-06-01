@@ -41,8 +41,16 @@ body {
 
 .middle2 .img2 {
     width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .middle2 div {
     text-align: right;
+}
+
+.end {
+    position: center;
+    text-align: center;
+    font-family: 'El Rio Lobo';
 }
