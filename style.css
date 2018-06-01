@@ -45,8 +45,36 @@ body {
     padding-bottom: 0px;
 }
 
-.middle2 div {
-    text-align: right;
+.middle2  {
+    position: relative;
+    text-align: center;
+}
+
+.middle2 .p1 {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.middle2 .p2 {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.middle2 .p3 {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.middle2 .p4 {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.middle2 .p5 {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
 
 .end {
