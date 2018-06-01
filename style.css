@@ -34,3 +34,15 @@ body {
     padding: 70px;
     position: center;
 }
+
+.middle2 {
+    position: relative;
+}
+
+.middle2 .img2 {
+    width: 100%;
+}
+
+.middle2 div {
+    text-align: right;
+}
